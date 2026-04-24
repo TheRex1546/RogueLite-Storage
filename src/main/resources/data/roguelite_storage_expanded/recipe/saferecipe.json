@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_block"
+    },
+    "b": {
+      "item": "minecraft:iron_trapdoor"
+    }
+  },
+  "result": {
+    "id": "roguelite_storage_expanded:safe",
+    "count": 1
+  }
+}
