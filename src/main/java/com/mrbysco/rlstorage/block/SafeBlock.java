@@ -71,7 +71,7 @@ public class SafeBlock extends BaseEntityBlock {
 					if (safeInventory != null) {
 						safeInventory.setAssociatedVault(safeBlockEntity);
 						player.openMenu(new SimpleMenuProvider((id, inventory, playerIn) ->
-								new ChestMenu(MenuType.GENERIC_9x1, id, inventory, safeContainer, 1), safeBlockEntity.getDisplayName()));
+								new ChestMenu(MenuType.GENERIC_9x3, id, inventory, safeContainer, 3), safeBlockEntity.getDisplayName()));
 						return ItemInteractionResult.CONSUME;
 					}
 				}
