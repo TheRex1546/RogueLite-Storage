@@ -58,7 +58,7 @@ public class SafeData extends SavedData {
 	}
 
 	public SafeInventory getInventoryFromUUID(UUID uuid) {
-		return this.safeMap.containsKey(uuid) ? this.safeMap.get(uuid) : this.safeMap.put(uuid, new SafeInventory(9));
+		return this.safeMap.containsKey(uuid) ? this.safeMap.get(uuid) : this.safeMap.put(uuid, new SafeInventory(27));
 	}
 
 	public void setDirty() {
