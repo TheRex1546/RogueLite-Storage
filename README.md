@@ -3,17 +3,20 @@
 # Safe Storage: RogueLite Storage EXPANDED
 
 ## About ##
-The mod features three safe tiers (iron, diamon, netherite) with their own crafting recipes and inventories.
+Did you ever want to move items across world saves without grinding for them again?
+Now you can craft a safe, and whatever you store in it will be saved everywhere!
 
-It's contents will persist between worlds meaning you get chose what you want to save for a future world.
+This mod features three safe tiers (iron, diamon, netherite) with their own crafting recipes and independent inventories.
 
-NOTE: 
+NOTE:
 ONLY FOR SINGLEPLAYER 1.21.1 WORLDS.
 
 ## License ##
-* RogueLite Storage is licensed under the MIT License
-  - (c) 2022 Mrbysco
+* Safe Storage is licensed under the MIT License
+  - (c) 2026 TheRex
   - [![License](https://img.shields.io/badge/License-MIT-red.svg?style=flat)](http://opensource.org/licenses/MIT)
 
 ## Downloads ##
+Get it on curseforge: 
+
 See the original on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/roguelite-storage)
