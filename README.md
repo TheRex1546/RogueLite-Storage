@@ -8,7 +8,7 @@ The mod features three safe tiers (iron, diamon, netherite) with their own craft
 It's contents will persist between worlds meaning you get chose what you want to save for a future world.
 
 NOTE: 
-ONLY FOR SINGLEPLAYER WORLDS.
+ONLY FOR SINGLEPLAYER 1.21.1 WORLDS.
 
 ## License ##
 * RogueLite Storage is licensed under the MIT License
