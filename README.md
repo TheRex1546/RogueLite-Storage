@@ -1,5 +1,3 @@
-[![build](https://github.com/Mrbysco/RogueLite-Storage/actions/workflows/build.yml/badge.svg)](https://github.com/Mrbysco/RogueLite-Storage/actions/workflows/build.yml) [![](http://cf.way2muchnoise.eu/versions/694714.svg)](https://www.curseforge.com/minecraft/mc-mods/roguelite-storage)
-
 # Safe Storage: RogueLite Storage EXPANDED
 
 ## About ##
